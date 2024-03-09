@@ -17,5 +17,5 @@ This software is [licensed](LICENSE.txt) under The MIT License (MIT)
 
 ## Credits
 
-[Newtonsoft.Json](https://www.newtonsoft.com/json) - used for parsing JSON
-[Signature Switch from Achim Seufert](https://addons.thunderbird.net/de/thunderbird/addon/signature-switch) - for making the Addon
+- [Newtonsoft.Json](https://www.newtonsoft.com/json) - used for parsing JSON
+- [Signature Switch from Achim Seufert](https://addons.thunderbird.net/de/thunderbird/addon/signature-switch) - for making the Addon
